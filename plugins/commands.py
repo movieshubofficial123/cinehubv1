@@ -17,7 +17,7 @@ async def start(client, message):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("HELP", callback_data="help_data"),
+                        InlineKeyboardButton("✨ 𝐌𝐎𝐕𝐈𝐄 𝐆𝐑𝐎𝐔𝐏✨", url="https://t.me/cinehubb01"),
                         InlineKeyboardButton("ABOUT", callback_data="about_data"),
                     ],
                     [
